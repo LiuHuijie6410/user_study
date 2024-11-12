@@ -1,0 +1,21 @@
+Video Merging Log
+Format: [Video Name] - [ours position: left/right]
+
+dreamvideo/1.mp4 - ours position: right
+dreamvideo/2.mp4 - ours position: right
+dreamvideo/3.mp4 - ours position: right
+dreamvideo/4.mp4 - ours position: right
+dreamvideo/5.mp4 - ours position: right
+dreamvideo/6.mp4 - ours position: right
+LAMP/1.mp4 - ours position: left
+LAMP/2.mp4 - ours position: right
+LAMP/3.mp4 - ours position: left
+LAMP/4.mp4 - ours position: right
+LAMP/5.mp4 - ours position: right
+LAMP/6.mp4 - ours position: right
+MD/1.mp4 - ours position: left
+MD/2.mp4 - ours position: right
+MD/3.mp4 - ours position: right
+MD/4.mp4 - ours position: right
+MD/5.mp4 - ours position: left
+MD/6.mp4 - ours position: right
